@@ -1,0 +1,22 @@
+.App {
+  background-color: #eee;
+  width: 100vw;
+  height: 100vh;
+}
+
+.search-bar-container {
+  padding-top: 20vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
+
+.user-list{
+  width:50%;
+  margin:auto;
+  background-color:grey;
+  color:purple;
+}
