@@ -5,6 +5,7 @@ import SearchResultList from './components/SearchResultList';
 
 function App() {
   const [results,setResults]=useState([]);
+
   return (
     <div className='App'>
     <div className='search-bar-container'>
